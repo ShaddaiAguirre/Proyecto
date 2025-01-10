@@ -1,10 +1,10 @@
 ---
-description: >-
-  Become a validator and help secure eth2, a proof-of-stake blockchain. Anyone
-  with 32 ETH can join.
+descrition: >-
+  Conviertase en validador y ayude a proteger eth2, una blockchain de prueba de apuestas. Alguien con 32 ETH puede unirse.
+  
 ---
 
-# Guide \| How to setup a validator on ETH2 mainnet
+# Guia \| Como configurar un validador en la red principal ETH2.
 
 {% hint style="success" %}
 As of Dec 5 2020, this guide is updated for **mainnet.** 😁
