@@ -1,10 +1,10 @@
 ---
-description: >-
-  Empowered, inspired, home staker. Free. Open source. Public goods for
+descripcion: >-
+  Empoderado, inspirado, apostador desde casa. gratis. Código abierto. Bienes publicos para
   Ethereum.
 ---
 
-# 🛡️ EthPillar: one-liner setup tool and node management TUI
+# 🛡️ EthPillar: herramienta de configuracion de una sola linea y interfaz de usuario de gestion de nodos
 
 {% hint style="success" %}
 :heart: Support us on **Gitcoin** GR20: [https://explorer.gitcoin.co/#/round/42161/26/34](https://explorer.gitcoin.co/#/round/42161/26/34)
