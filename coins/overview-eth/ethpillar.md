@@ -10,15 +10,15 @@ description: >-
 :heart: Support us on **Gitcoin** GR20: [https://explorer.gitcoin.co/#/round/42161/26/34](https://explorer.gitcoin.co/#/round/42161/26/34)
 {% endhint %}
 
-## :new: What is EthPillar?
+##:nuevo: ¿Qué es EthPillar?
 
-:smile: **Friendly Node Installer**: No node yet? Helps you installs a Ethereum node (Nimbus+Nethermind) stack in just minutes. MEVboost included.
+:sonrisa: **Instalador de nodos amigable**: ¿Aún no tienes un nodo? Te ayuda a instalar un nodo en Ethereum (Nimbus+Nethermind) en tan solo unos minutos. MEVboost incluido.
 
-:floppy\_disk: **Ease of use**: No more remembering CLI commands required. Access common node operations via a simple text user interface (TUI).
+:flexible\_disco: **Facilidad de uso**: Ya no es necesario recordar los comandos CLI. Acceda a las operaciones de nodo comunes a través de una interfaz de usuario de texto simple (TUI).
 
-:owl: **Fast Updates**: Quickly find and download the latest consensus/execution release. Less downtime!
+:buho: **Actualizaciones rapidas**: Encuentre y descargue rápidamente la ultima versión de consenso/ejecución. ¡Menos tiempo de inactividad!
 
-:tada:**Compatibility**: Behind the scenes, node commands and file structure are identical to V2 staking setups.&#x20;
+:tada:**Compatibilidad**: Detrás de escena, los comandos de nodo y la estructura de archivos son idénticos a las configuraciones de estaca V2.&#x20;
 
 {% hint style="warning" %}
 Already a running a Validator? EthPillar is compatible with [a Coincashew V2 Staking Setup.](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-mainnet)&#x20;
