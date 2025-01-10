@@ -56,18 +56,18 @@ Already a running a Validator? EthPillar is compatible with [a Coincashew V2 Sta
 
 </div>
 
-## :whale: Prerequisites
+## :ballena: Prerequisitos
 
-* [Review how staking works and the hardware requirements](guide-or-how-to-setup-a-validator-on-eth2-mainnet/part-i-installation/prerequisites.md)
-* An [Ubuntu](guide-or-how-to-setup-a-validator-on-eth2-mainnet/part-i-installation/prerequisites.md#setup-ubuntu) installation.&#x20;
-  * Tested working with Ubuntu 22.04 LTS
-  * Also appears compatible with Linux Mint 21.2, Debian 12
+* [Revise como funciona el staking y los requisitos de hardware](guia-de-como-configurar-un-validador-en-eth2-red-principal/parte-i-instalacion/prerequisitos.md)
+*   Una instalacion de [Ubuntu](guia-de-como-configurar-un-validator-en-eth2-mainnet/parte-i-instalacion/prerequisitos.md#setup-ubuntu) instalacion.&#x20;
+  * Probado y funcionando con Ubuntu 22.04 LTS
+  * Tambien parece compatible con Linux Mint 21.2, Debian 12
 
-## :triangular\_ruler: Option 1: Automated One-Liner Install
+## :triangular\_regla: Opcion 1: Instalacion automatizada de una linea
 
-Open a terminal window from anywhere by typing `Ctrl+Alt+T`.&#x20;
+Abra una ventana de terminal desde cualquier lugar escribiendo `Ctrl+Alt+T`.&#x20;
 
-To install, paste the following:
+Para instalar, pegue lo siguiente:
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/coincashew/EthPillar/main/install.sh)"
